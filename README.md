@@ -8,8 +8,8 @@ This study compares credit default models, evaluates calibration and group dispa
 
 | File | Contents |
 | --- | --- |
-| `team-oversight-fair-calibrated-credit-v05(4).ipynb` | Executed notebook with the analysis and displayed outputs for RQ1–RQ5. |
-| `fairness_review_capacity_results(5).zip` | Exported PDF figures and CSV tables, including run settings and the export manifest. |
+| `team-oversight-fair-calibrated-credit-v05.ipynb` | Executed notebook with the analysis and displayed outputs for RQ1–RQ5. |
+| `fairness_review_capacity_results.zip` | Exported PDF figures and CSV tables, including run settings and the export manifest. |
 
 ## Data and execution
 
