@@ -22,4 +22,4 @@ For local Jupyter execution, place both original archives in the working folder.
 
 ## Target journal
 
-*Decision Support Systems* (Elsevier). This repository contains the v05 course submission. The audit identified revisions before journal submission.
+*Decision Support Systems* (Elsevier). This repository contains the course submission. The audit identified revisions before journal submission.
